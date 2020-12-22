@@ -18,3 +18,5 @@ The datasets consists of several medical predictor variables and one target vari
 
 ## Inspiration
 Can you build a machine learning model to accurately predict whether or not the patients in the dataset have diabetes or not?
+
+The result of this model is being worked on. An interactive web app will be built to allow users to easily see the results of the model. 
