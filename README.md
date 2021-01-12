@@ -1,6 +1,6 @@
-# pima-indians-MLPLC-full-fledge
+## pima-indians-MLPLC-full-fledge
 This repo contain a notebook, pdf format and dataset of pima indians on diabetes 
-i want to start a new project and i will be implementing the entire process of ML model which are <br>
+conceptualized the project and implemented the entire process of ML model which are <br>
 1. Getting the data
 2. Data Cleaning and Formatting
 3. Exploratory Data Analysis
@@ -16,7 +16,7 @@ This dataset is originally from the National Institute of Diabetes and Digestive
 
 The datasets consists of several medical predictor variables and one target variable, Outcome. Predictor variables includes the number of pregnancies the patient has had, their BMI, insulin level, age, and so on. <br>
 
-## Inspiration
+### Inspiration
 Can you build a machine learning model to accurately predict whether or not the patients in the dataset have diabetes or not?
 
-The result of this model is being worked on. An interactive web app will be built to allow users to easily see the results of the model. 
+A simple ML model that can predict if a patient has diabetes or not..
